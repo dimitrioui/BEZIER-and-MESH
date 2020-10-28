@@ -1,7 +1,7 @@
 # BEZIER-and-MESH
 Design using Bezier algorithm
 This package is easy to compile easy to run using the  https://developerinsider.co/ and uses the C libraries in DOS.
-Once you install C in windows10, you can run the main subroutine menu_bez.exe
+Once you install C in windows10, you can run the main subroutine MENU_BEZ.C (menu_bez.exe)
 Make sure your files are in the correct subdirectory. The file PARAMETR.C must by well  defined.
 You can design third degree Bezier patches of 16 control points using deferent algorithms and interpolate them using subroutine BEZIER.C through the (STEP) parameter.
 You can connect patches with the same size of control points per side using the subroutine STICKIT.C.
