@@ -8,4 +8,5 @@ You can connect patches with the same size of control points per side using the 
 You can blend the connected patches using the subroutine COMPOSE.C
 When the model is finished you can view it using the subroutine GRAPH_CO.C
 Using the subroutine MAKE_MES.C we desing a triangle 3D mesh.
+You can view the mesh using the subrutine GRBEZ.C
 Finally the subrourine MAKEIGS.C creates an IGES file (from the mesh file) for further analysis using other packages.
