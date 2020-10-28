@@ -10,3 +10,4 @@ When the model is finished you can view it using the subroutine GRAPH_CO.C
 Using the subroutine MAKE_MES.C we desing a triangle 3D mesh.
 You can view the mesh using the subrutine GRBEZ.C
 Finally the subrourine MAKEIGS.C creates an IGES file (from the mesh file) for further analysis using other packages.
+The subroutine CURVEBEZ.C, helps you desing 3D Bezier curve and view the result.
