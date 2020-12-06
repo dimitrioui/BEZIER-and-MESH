@@ -308,7 +308,7 @@ chdirr(drive1,prg_dir);
 exit(1);
 }
 /*---------------------------------------------------------------------------*/
-fprintf(memco,"IGES file generated from a JOHN DIMITRIOU   by the IGES                 S0000001\n","");
+fprintf(memco,"IGES file generated from a JDIMITRIOU MESH  by the IGES                 S0000001\n","");
 fprintf(memco,"translator                    , translator version IGESOUT-2.0.         S0000002\n","");
 fprintf(memco,",,1HY,5HY.IGS,10HAutoCAD-10,11HIGESOUT-2.0,16,38,6,99,15,1HY,1.0,1,4HINCG0000001\n","");
 fprintf(memco,"H,32767,3.2767D1,13H910319.190735,1.0D-8,7.0,6HThroop,14HAutodesk, Inc.,G0000002\n","");
