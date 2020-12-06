@@ -1,5 +1,5 @@
-# BEZIER-and-MESH
-Design using Bezier algorithm.
+# BEZIER multi patch -and-MESH
+Design surface using Bezier algorithm.
 The package was initial developed in 1992.  
 Easy to compile-easy to run, using the  https://developerinsider.co/ and uses the C libraries in DOS.
 Once you install C in Windows10, you can compile and run the main subroutine MENU_BEZ.C (menu_bez.exe).
